@@ -1,0 +1,25 @@
+{
+  "window.zoomLevel": 2,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.inlayHints.enabled": "on",
+  "breadcrumbs.enabled": true,
+  
+  "C_Cpp.workspaceParsingPriority": "highest",
+  "C_Cpp.codeAnalysis.clangTidy.enabled": true,
+  "C_Cpp.codeAnalysis.runAutomatically": true,
+
+  "files.watcherExclude": {
+    "**/Binaries/**": true,
+    "**/Intermediate/**": true,
+    "**/Saved/**": true
+  },
+  "search.exclude": {
+    "**/Binaries/**": true,
+    "**/Intermediate/**": true,
+    "**/Saved/**": true
+  }
+}
